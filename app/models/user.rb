@@ -1,3 +1,3 @@
 class User < ApplicationRecord
-  after_commit -> { UserJob.perform_later(self) }
+  after_create -> { UserJob.perform_later(self) }
 end
