@@ -1,24 +1,15 @@
-# README
+# Railway App
+This is the companion app to the [Railway Project](https://github.com/FestaLab/railway)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Contributing
 
-Things you may want to cover:
+Bug reports and pull requests are welcome on GitHub at https://github.com/FestaLab/railway. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/FestaLab/railway/blob/main/CODE_OF_CONDUCT.md).
 
-* Ruby version
+## License
 
-* System dependencies
+The project is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
-* Configuration
+## Code of Conduct
 
-* Database creation
+Everyone interacting in the Railwat project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/FestaLab/railway/blob/main/CODE_OF_CONDUCT.md).
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
